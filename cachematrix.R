@@ -1,5 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Description:
+## Author: Alfonso Moralo
+## Creation Date: 04/11/2016
 
 ## Write a short comment describing this function
 
